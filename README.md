@@ -118,8 +118,6 @@ An app connecting people around shared interests to build meaningful friendships
 <img src="https://raw.githubusercontent.com/Briankipchirchir77/Briankipchirchir77/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </div>
 
-> ℹ️ To activate the snake animation above, add the **[snake workflow](https://github.com/Platane/snk)** to this repo (see setup note at the bottom of this file).
-
 ---
 
 ### 🌐 Connect with Me
