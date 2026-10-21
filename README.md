@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🌱 Deepening my skills in **Flask, REST APIs & React**
 - 👨‍💻 All my work lives at my **[portfolio site](https://briankipchirchir77.github.io/BRIANK-PORTFOLIO-WEBSITE/)**
 - 📝 I occasionally write on **[dev.to](https://dev.to/briankipchirchir77)**
-- 📄 Grab my **[CV here](https://raw.githubusercontent.com/Briankipchirchir77/Brian_Kipchirchir_Full-Stack_Developer_CV.pdf)**
+- 📄 Grab my **[CV here](https://drive.google.com/file/d/1mU4A6JxxWzekJQhickQz7oxRgn352AOd/view?usp=drive_link)**
 - 💬 Ask me about **React, JavaScript, Flask & Python**
 - 📫 Reach me at **briankipchirchir964@gmail.com**
 - ⚡ Fun fact: I approach debugging the way I once approached lesson planning — patiently, and with a backup plan
